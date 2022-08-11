@@ -7,9 +7,9 @@ the following is an example layout as would be pictured on keycaps
 Current progress
  - size and specifications decided
  - ergogen used to generate basic pcb
+ - pcb routing
  
 TODO
- - pcb routing
  - writing ZMK firmware
  - case and carrying case design
  - renders
